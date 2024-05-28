@@ -458,6 +458,7 @@ var reservedWordsInAttr = map[string]string{
 
 var specialCharacterMapping = map[string]string{
 	"+": "Plus",
+	"-": "Minus",
 	"@": "At",
 }
 
